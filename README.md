@@ -1,8 +1,9 @@
-<div>
-  <img align="right" alt="" height="700" width="400" src="https://i.pinimg.com/736x/c5/9e/cd/c59ecd594e769a9cf0f9238167414d21.jpg">
-</div>
 
 ## Opa! Meu nome é Bernardo Veloso! 👋
+
+<div>
+  <img align="right" alt="" height="200" width="200" src="https://i.scdn.co/image/ab67616d0000b2739e2874ae45d03d51c29627be" style=border-radius:"50">
+</div>
 
 ### Já aprendi 
 <div style="display: inline_block">
